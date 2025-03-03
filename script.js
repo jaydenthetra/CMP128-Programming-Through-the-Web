@@ -2,7 +2,7 @@ let quotes = {""We must accept finite disappointment, but never lose infinite ho
 let quotes = quotes[0]; // first quote pal
 function printfirstfruit()
 {
-  let randomnumber= Math.Floor(math.random()*quotes.length);
+  let randomnumber= Math.Floor(Math.random()*quotes.length);
 console.log(quotes[0]);
   
 }
