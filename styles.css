@@ -1,4 +1,7 @@
-body(
+body{
 background-color:violet;
   color:#FFF8E8;
-)
+}
+#mybutton{
+color:#000;
+}
